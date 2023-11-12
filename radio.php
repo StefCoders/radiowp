@@ -3,7 +3,7 @@
 /*
 Plugin Name: Radio player
 Description: Radio player for WordPress
-Author: Sidun Oleh
+Author: Stefcodesss
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
