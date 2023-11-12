@@ -1,6 +1,8 @@
 <?php
 
-defined( 'ABSPATH' ) or die;
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly.
+}
 
 /**
  * Plugin core
